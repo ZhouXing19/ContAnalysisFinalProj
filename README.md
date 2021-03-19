@@ -12,7 +12,7 @@ Chiayun Chang (cchiayun@uchicago.edu)
 Zhou Xing (zhouxing@uchicago.edu)
 
 ### Acknowledgement
-We want to express our sincere gratitude to Professor James Evans who provides us with continuous support and helpful comments. We also thank our two teaching assistants, Bhargav Srinivasa Desikan and Hyunku Kwon, for continuous technical support. 
+We want to express our sincere gratitude to Professor James Evans who provides us with continuous support and helpful comments. We also thank our two teaching assistants, Bhargav Srinivasa Desikan and Hyunku Kwon, for continuous technical support.
 
 ### Repository Structure
 
@@ -30,9 +30,10 @@ For the dataset, please check [here](https://www.dropbox.com/sh/0bgzsu0kzsjklw3/
 
 Techniques used in the projects come from:
 
-week1 - count word frequency, and plot lexical dispersion and word cloud
-week5 - implement LDA to capture topic dynamics
-week7 - apply Word2Vec models and dimension projections
+- week 1 - count word frequency, and plot lexical dispersion and word cloud
+- week 4 - classifying meanings and documents
+- week 5 - implement LDA and clustering algorithms to capture topic dynamics
+- week 7 - apply Word2Vec models and dimension projections
 
 
 ### References:
